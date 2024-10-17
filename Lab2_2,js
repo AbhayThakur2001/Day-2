@@ -1,0 +1,9 @@
+var age = 75;
+
+if(age>=18 && age<=65){
+    console.log("Eligibke to vote");
+}
+else{
+    console.log("Not Eligibke to vote");   
+}
+console.log(`My name is ${age}`);
